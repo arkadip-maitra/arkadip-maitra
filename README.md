@@ -7,6 +7,16 @@
 - 🔭 I work with large language models.
 - 🌱 I’m currently working on action generation.
 
+### Languages and Tools: 
+<img align="left" alt="linux" width="50px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />
+<img align="left" alt="python" width="50px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
+<img align="left" alt="python" width="50px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />
+<img align="left" alt="django" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
+<img align="left" alt="flask" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
+<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
+<br>
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arkadip-maitra" alt="arkadip-maitra" /> </p>
 
@@ -17,7 +27,4 @@
 
   <br/>
     <a href="https://github.com/arkadip-maitra/github-readme-stats"><img alt="Arkadip Maitra's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arkadip-maitra&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/arkadip-maitra/github-readme-stats"><img alt="Suvajit Patra's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkadip-maitra&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
