@@ -30,6 +30,6 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/arkadip-maitra/github-readme-stats"><img alt="Arkadip Maitra's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arkadip-maitra&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>   <a href="https://github.com/suvajit-patra/github-readme-stats"><img alt="Arkadip Maitra's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkadip-maitra&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/arkadip-maitra/github-readme-stats"><img alt="Arkadip Maitra's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arkadip-maitra&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>   <a href="https://github.com/arkadip-maitra/github-readme-stats"><img alt="Arkadip Maitra's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkadip-maitra&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
