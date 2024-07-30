@@ -14,7 +14,7 @@
 <img align="left" alt="python" width="50px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
 <img align="left" alt="python" width="50px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />
 <img align="left" alt="hf" width="50px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" />
-<img align="left" alt"fastapi" width="50px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" />
+<img align="left" alt"fastapi" width="50px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" />
 <img align="left" alt="django" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 
 
