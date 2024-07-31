@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-arkadipmaitra@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arkadipmaitra@gmail.com)](mailto:arkadipmaitra@gmail.com) 
 
 - 🔭 I work with language and vision models.
-- 🌱 I’m currently working on action generation.
+- 🌱 I’m currently working on sign langauge generation and recognition.
 
 ### Languages and Tools: 
 <img align="left" alt="linux" width="50px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />
