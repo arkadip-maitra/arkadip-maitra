@@ -6,7 +6,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-arkadipmaitra@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arkadipmaitra@gmail.com)](mailto:arkadipmaitra@gmail.com) 
 
 <br>
-<br>
 
 <img src="https://komarev.com/ghpvc/?username=arkadip-maitra" alt="arkadip-maitra" />
 
