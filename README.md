@@ -7,6 +7,7 @@
 <p>
 <img src="https://komarev.com/ghpvc/?username=arkadip-maitra" alt="arkadip-maitra" />
 </p>
+
 - 🔭 I work with language and vision models.
 - 🌱 I’m currently working on sign langauge generation and recognition.
 
