@@ -4,10 +4,9 @@
 [![Website Badge](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://arkadip-maitra.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-arkadipmaitra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/arkadip-maitra)](https://in.linkedin.com/in/arkadip-maitra)
 [![Gmail Badge](https://img.shields.io/badge/-arkadipmaitra@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arkadipmaitra@gmail.com)](mailto:arkadipmaitra@gmail.com) 
-
-<br>
+<p>
 <img src="https://komarev.com/ghpvc/?username=arkadip-maitra" alt="arkadip-maitra" />
-
+</p>
 - 🔭 I work with language and vision models.
 - 🌱 I’m currently working on sign langauge generation and recognition.
 
