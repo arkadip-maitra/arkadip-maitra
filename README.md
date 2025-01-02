@@ -25,7 +25,7 @@
 <br>
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=arkadip-maitra&column=8&theme=nord)](https://github.com/arkadip-maitra)
+[![trophy](https://github-profile-trophy.vercel.app/?username=arkadip-maitra&column=5&theme=nord)](https://github.com/arkadip-maitra)
 
 
 ## 📊 My Github Stats
