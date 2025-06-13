@@ -11,16 +11,6 @@
 - 🔭 I work with language and vision models.
 - 🌱 I’m working on sign langauge generation and recognition.
 
-### Languages and Tools: 
-<img align="left" alt="linux" width="50px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />
-<img align="left" alt="docker" width="50px" src="https://banner2.cleanpng.com/20180802/ipp/c26b0dc2951a5195ae50c46f6be2544e.webp" />
-<img align="left" alt="git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="python" width="50px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
-<img align="left" alt="pytorch" width="50px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />
-<img align="left" alt="hf" width="50px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" />
-<img align="left" alt"fastapi" width="50px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" />
-
-
 <br>
 <br>
 <br>
