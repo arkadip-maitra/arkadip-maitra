@@ -27,10 +27,3 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=arkadip-maitra&column=8&theme=nord)](https://github.com/arkadip-maitra)
 
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/arkadip-maitra/github-readme-stats"><img alt="Arkadip Maitra's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arkadip-maitra&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-
