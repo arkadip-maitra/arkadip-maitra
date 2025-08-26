@@ -10,8 +10,3 @@
 
 Currently working at Red Hat
 
-<br>
-<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=arkadip-maitra&column=8&theme=nord)](https://github.com/arkadip-maitra)
-
