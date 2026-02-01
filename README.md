@@ -7,5 +7,5 @@
 <img src="https://komarev.com/ghpvc/?username=arkadip-maitra" alt="arkadip-maitra" />
 </p>
 
-Currently working at Red Hat
+Doing Stuff
 
